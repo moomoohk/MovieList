@@ -1,25 +1,27 @@
 /*
 * + Watched
 * - Need to watch
+*
+* All ratings are in moostars(tm)
 */
 
 - original tron
-+ primer
-+ donnie darko
-+ s. darko
++ primer (2.456*10^2)
++ donnie darko (3)
++ s. darko (34.27)
 - lone ranger
 - the godfathers
 - coneheads
-+ reservoir dogs
-+ silence of the lambs
++ reservoir dogs (115/pi)
++ silence of the lambs (245.301)
 - jaws
-+ clockwork orange
-+ super troopers
++ clockwork orange (1213)
++ super troopers (82.34)
 - beerfest
-+ alien
++ alien (32)
 - rest of alien franchise and predator and crossover franchises
 - american hustle
-+ pacific rim
-+ children of men
-+ the usual suspects 
-+ a serbian film
++ pacific rim (32.1)
++ children of men (256.34)
++ the usual suspects (523)
++ a serbian film (7343)
