@@ -19,7 +19,9 @@
 + super troopers (82.34)
 + beerfest (3342)
 + alien (32)
-- rest of alien franchise and predator and crossover franchises
++ aliens (2432)
++ alien 3 (96)
++ alien: resurrection (452)
 - american hustle
 + pacific rim (32.1)
 + children of men (256.34)
@@ -30,3 +32,4 @@
 - blow
 - half baked
 + source code (diameter of moon in meters + 2)
++ gravity (923)
