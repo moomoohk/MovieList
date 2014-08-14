@@ -2,7 +2,7 @@
 * + Watched
 * - Need to watch
 *
-* All ratings are in moostars(tm)
+* All ratings are in moostars(tm)*
 */
 
 - original tron
@@ -34,3 +34,7 @@
 - half baked
 + source code (diameter of moon in meters + 2)
 + gravity (923)
+
+/*
+* *moostars(tm) are not arbitrary despite what henrog says
+*/
